@@ -114,6 +114,15 @@
     margin-right: -80px;
     margin-top: -40px;
   }
+  .num{
+    font-size: 15px;
+    color: #ffffff;
+    font-weight: 400;
+    font-family: "Roboto";
+    border-radius:20px ;
+    top:-16px;
+    left:220px;
+}
   .dropdown {
     float: left;
     overflow: hidden;
@@ -166,6 +175,19 @@
     height: 49px;
     border-radius: 24px;
   }
+
+
+
+
+
+
+
+
+
+
+
+
+  
 .main{
     margin-top: 235px;
     margin-left: 465px;
@@ -193,7 +215,8 @@
     font-weight: 700;
     font-family: "Roboto";
  }
-  table{
+ .product{
+    border:1px solid white;
     border-collapse: collapse;
     background-color: none;
     border: 1px solid #ffffff;
@@ -206,13 +229,7 @@
     padding-right:30px;
     position: relative;
   }
-  .icon17 img{
-    position: relative;
-  }
-  .sqr { left: 240px; top: -175px; width: 20px;
-    height: 20px;}
-   .fav { left: 217px; top: -140px; width: 20px;
-    height: 20px;}
+  
   .details{
     width: 210px;
     height: 51px;
@@ -250,7 +267,7 @@
     font-family: "Roboto";
     text-align: center;
   }
-  .icon17{
+  .product-img{
     width: 270px;
     height: 180px;
     background-color: rgba(255,255,255,0.75);
@@ -270,18 +287,6 @@
   .watch{
     border-radius: 1px;
     margin: 46px 60px 45px 110px;
-    }
-  .icon10{
-    width: 270px;
-    height: 180px;
-    background-color: rgba(255,255,255,0.75);
-    border: 1px solid #ffffff;
-  }
-   .icon9{
-    width: 270px;
-    height: 180px;
-    background-color: rgba(255,255,255,0.75);
-    border: 1px solid #ffffff;
   }
   .price{
    font-size: 48px;
@@ -310,7 +315,7 @@
   color: #ffffff;
   font-weight: 700;
   font-family: "Roboto";
-  margin-top:-135px;
+  padding-top:15px;
   margin-bottom: 20px;
   padding-left: 15px;
   }
