@@ -229,13 +229,13 @@
   }
   .details a{
     color:white;
-}
+ }
   .cart a{
     color:white;
-}
-.cart img{
+ }
+  .cart img{
     padding-left: 5px;
-}
+ }
   .cart{
     margin-right: 25px;
     margin-top: 565px;
@@ -256,6 +256,11 @@
     background-color: rgba(255,255,255,0.75);
     border: 1px solid #ffffff;
   }
+  .picture{
+    width: 30px;
+    height: 30px;
+    border:1px solid white;
+  }
   .laptop{
     width: 102px;
     height: 89px;
@@ -267,6 +272,12 @@
     margin: 46px 60px 45px 110px;
     }
   .icon10{
+    width: 270px;
+    height: 180px;
+    background-color: rgba(255,255,255,0.75);
+    border: 1px solid #ffffff;
+  }
+   .icon9{
     width: 270px;
     height: 180px;
     background-color: rgba(255,255,255,0.75);
