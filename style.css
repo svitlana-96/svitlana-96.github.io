@@ -155,7 +155,7 @@
     width:286px;
   }
   .empty{
-  width:1686px;
+  width:1586px;
   height: 400px;
   background-color: black;
   opacity: 0.2;
@@ -176,7 +176,9 @@
     height: 49px;
     border-radius: 24px;
   }
-
+.main{
+    margin-top: 235px;
+  }
  a{
     text-decoration:none;
   }
