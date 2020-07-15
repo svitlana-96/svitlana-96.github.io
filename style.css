@@ -155,10 +155,10 @@
     width:286px;
   }
   .empty{
+  width:1200px;
   height: 400px;
   background-color: black;
   opacity: 0.2;
-      text-align-center;
   }
   .slide{
   font-size: 100px;
